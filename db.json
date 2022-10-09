@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Mazda backing Coupe",
+      "day": "Thu Jul 27 2023",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "around Assistant Loan",
+      "day": "Thu Jun 01 2023",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Mazda backing Coupe",
+      "day": "Sun Nov 20 2022",
+      "reminder": false
+    },
+    {
+      "id": "3af30288-b3ba-49e9-95c3-813d5805ed16",
+      "text": "new tasks",
+      "day": "now",
+      "reminder": true
+    }
+  ]
+}
